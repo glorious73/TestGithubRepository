@@ -1,0 +1,16 @@
+{
+  "name": "testgithubrepository",
+  "version": "1.0.0",
+  "description": "test node project that will uploaded on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "github",
+    "msarat"
+  ],
+  "author": "Amjad Abujamous",
+  "license": "ISC"
+}
